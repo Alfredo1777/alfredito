@@ -10,13 +10,13 @@ int main()
 	//pedimos los datos del primer vector
 	for (i = 0; i < 3; i++)
 	{
-		cout << "Introduce el valor: " << i
+		cout << "Introduce el valor " << i
 			<< "Del primer vector: ";
 		cin >> vector1[i];
 	}
 	for (i = 0; i < 3; i++)
 	{
-		cout << "Introduce el valor: " << i
+		cout << "Introduce el valor " << i
 			<< "Del segundo vector: ";
 		cin >> vector2[i];
 	}
